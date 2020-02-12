@@ -9,9 +9,7 @@
   birthday_kids.each do |kids_name, age|
     if age <= 12 
     puts "Happy Birthday #{kids_name}! You are now #{age} years old!" 
-  else
-    puts "Sorry you are too old #{kids_name}"
-  end
+ 
 end
 end
 
