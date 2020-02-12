@@ -21,4 +21,3 @@ def age_appropriate_birthday(birthday_kids)
     puts "Sorry #{kids_name}, you are too old"
   end
   end
-end
